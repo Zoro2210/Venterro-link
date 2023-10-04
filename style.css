@@ -10,6 +10,7 @@ html, body {
     height: 100%;
     weight: 100%;
     overflow-x: hidden;
+    overflow-y: hidden;
     user-select: none;
     -webkit-user-select: none;
     -moz-user-select: none;
