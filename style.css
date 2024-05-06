@@ -6,9 +6,9 @@
 /* * */
 
 html, body {
-    owerflow: hidden;
+    overflow: hidden;
     height: 100%;
-    weight: 100%;
+    widows: 100%;
     overflow-x: hidden;
     overflow-y: hidden;
     user-select: none;
